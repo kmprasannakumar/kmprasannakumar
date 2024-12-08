@@ -58,7 +58,7 @@ Here are some of my recent projects:
 ## 🌐 Connect with Me
 - **📫 How to reach me:** prasannakumar.oxf@gmail.com  
 - **GitHub:** [kmprasannakumar](https://github.com/kmprasannakumar)  
-- **LinkedIn:** [linkedin](https://linkedin.com/in/prasanna-kumar-k-m-66124a2b2)
+- **LinkedIn:** [linkedin](https://linkedin.com/in/prasannakumar-km)
 
 ---
 
