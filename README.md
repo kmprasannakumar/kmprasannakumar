@@ -52,7 +52,13 @@ Here are some of my recent projects:
 ## 🚀 Goals
 - Contribute to open-source projects in Web Development and Cybersecurity.  
 - Build scalable and secure cloud-based solutions.  
-- Gain expertise in advanced Cybersecurity practices.  
+- Gain expertise in advanced Cybersecurity practices.
+
+## Achievements
+
+![image](https://github.com/user-attachments/assets/8dd12fab-ff0b-433f-a66b-0145b822fade)
+
+
 
 ---
 
